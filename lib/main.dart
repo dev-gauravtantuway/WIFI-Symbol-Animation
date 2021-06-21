@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'dart:ui';
 
-void main() async {
+void main() {
   runApp(
     MaterialApp(
       home: HomePage(),
